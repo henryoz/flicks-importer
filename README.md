@@ -1,4 +1,4 @@
-Work on flicks-scraper is temporarily on hold seeing as the kindly video merchants furnished me with a .csv of their entire movie catablue.
+Work on flicks-scraper is temporarily on hold seeing as the kindly video merchants furnished me with a .csv of their entire movie catalogue.
 
 It's massive.
 
